@@ -1,0 +1,7 @@
+En este módulo, aprenderá a realizar algunas tareas fundamentales de manipulación de datos que, en conjunto, forman la fase de preprocesamiento del análisis de datos. Estas tareas incluyen la gestión de valores faltantes en los datos, el formato de los datos para estandarizarlos y hacerlos consistentes, la normalización de los datos, la agrupación de valores de datos en contenedores y la conversión de variables categóricas en variables cuantitativas numéricas.
+Objetivos de aprendizaje
+Describe cómo manejar los valores faltantes
+Describir las técnicas de formato de datos.
+Describir la normalización y estandarización de datos.
+Demostrar el uso del binning
+Demostrar el uso de variables categóricas
