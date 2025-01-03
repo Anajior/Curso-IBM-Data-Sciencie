@@ -1,0 +1,8 @@
+En este módulo, aprenderá sobre la importancia de la evaluación de modelos y analizará diferentes técnicas de refinamiento de modelos de datos. Aprenderá sobre la selección de modelos y cómo identificar el sobreajuste y el subajuste en un modelo predictivo. También aprenderá sobre el uso de la regresión de cresta para regularizar y reducir los errores estándar para evitar el sobreajuste de un modelo de regresión y cómo usar el método de búsqueda de cuadrícula para ajustar los hiperparámetros de un estimador.
+Objetivos de aprendizaje
+Describir técnicas de refinamiento del modelo de datos.
+Explicar el sobreajuste, el subajuste y la selección del modelo.
+Aplicar la regresión de cresta para regularizar y reducir los errores estándar para evitar el sobreajuste de un modelo de regresión.
+Aplicar técnicas de búsqueda en cuadrícula usando Python
+Explicar cómo funcionan las búsquedas en la cuadrícula
+Describa cómo funciona la regresión de cresta para evitar el sobreajuste de un modelo
