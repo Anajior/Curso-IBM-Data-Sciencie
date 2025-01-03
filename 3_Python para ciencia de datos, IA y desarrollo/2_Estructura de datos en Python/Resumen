@@ -1,0 +1,9 @@
+Este módulo comienza un recorrido por las estructuras de datos de Python explicando el uso de listas y tuplas y cómo pueden almacenar conjuntos de datos en una sola variable. A continuación, aprenda sobre los diccionarios y cómo funcionan almacenando datos en pares de claves y valores, y finalice con los conjuntos de Python para aprender cómo este tipo de conjunto puede aparecer en cualquier orden y solo contendrá elementos únicos.
+Objetivos de aprendizaje
+Describir y manipular combinaciones de tuplas y estructuras de datos de listas.
+Ejecutar operaciones básicas de tuplas en Python.
+Realizar operaciones de lista en Python.
+Escribir estructuras con claves y valores correctos para demostrar la comprensión de los diccionarios.
+Trabajar con diccionarios y realizar operaciones en Python.
+Cree conjuntos para demostrar la comprensión de las diferencias entre conjuntos, tuplas y listas.
+Trabajar con conjuntos en Python, incluidas operaciones y operaciones lógicas.
