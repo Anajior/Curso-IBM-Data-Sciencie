@@ -1,0 +1,6 @@
+En este módulo aprenderás los conceptos básicos del uso de Python para conectarse a bases de datos. En un Jupyter Notebook, crearás tablas, cargarás datos y realizarás consultas de datos utilizando SQL Magic y la biblioteca de Python SQLite. También aprenderás a analizar datos utilizando Python.
+Objetivos de aprendizaje
+Acceda a bases de datos desde Python usando la magia de SQL
+Describir conceptos relacionados con el acceso a bases de datos mediante Python
+Crear tablas e insertar datos usando Python
+Analizar un conjunto de datos utilizando SQL y Python
