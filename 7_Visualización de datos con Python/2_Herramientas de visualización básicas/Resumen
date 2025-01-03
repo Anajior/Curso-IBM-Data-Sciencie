@@ -1,0 +1,8 @@
+Las herramientas de visualización desempeñan un papel fundamental en el análisis y la comunicación de datos. Son esenciales para extraer información y presentarla de forma concisa tanto a públicos técnicos como no técnicos. En este módulo, creará una amplia gama de gráficos utilizando Matplotlib, la biblioteca de visualización de datos. A lo largo de este módulo, aprenderá sobre gráficos de área, histogramas, gráficos de barras, gráficos circulares, gráficos de caja y gráficos de dispersión. También explorará el proceso de creación de estas herramientas de visualización utilizando Matplotlib.
+Objetivos de aprendizaje
+Describe un diagrama de caja con una ilustración y créalo usando Matplotlib
+Explora un gráfico de área con una ilustración y créalo usando Matplotlib
+Define un histograma con una ilustración y créalo usando Matplotlib
+Describe un gráfico de barras con una ilustración y créalo usando Matplotlib
+Descubra un gráfico circular con una ilustración y créelo usando Matplotlib
+Descubra un diagrama de dispersión con una ilustración y créelo usando Matplotlib
