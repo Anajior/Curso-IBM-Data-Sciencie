@@ -1,0 +1,6 @@
+En este módulo, recopilará datos sobre los aterrizajes de la primera etapa del Falcon 9. Utilizará una API RESTful y web scraping. También convertirá los datos en un marco de datos y luego realizará algunas operaciones de manipulación de datos.
+Objetivos de aprendizaje
+Cree diagramas de dispersión y gráficos de barras escribiendo código Python para analizar datos en un marco de datos de Pandas
+Escriba código Python para realizar un análisis exploratorio de datos mediante la manipulación de datos en un marco de datos de Pandas
+Crear y ejecutar consultas SQL para seleccionar y ordenar datos
+Utilice sus habilidades de visualización de datos para visualizar los datos y extraer patrones significativos para guiar el proceso de modelado.
