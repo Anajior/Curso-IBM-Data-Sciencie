@@ -1,0 +1,10 @@
+En este módulo, aprenderá a definir la variable explicativa y la variable de respuesta, y comprenderá las diferencias entre los modelos de regresión lineal simple y regresión lineal múltiple. Aprenderá a evaluar un modelo mediante visualización y aprenderá sobre regresión polinómica y pipelines. También aprenderá a interpretar y utilizar las medidas de error cuadrático medio y R cuadrado para realizar evaluaciones en la muestra para evaluar numéricamente nuestro modelo. Y, por último, aprenderá sobre predicción y toma de decisiones para determinar si nuestro modelo es correcto.
+Objetivos de aprendizaje
+Evaluar un modelo utilizando técnicas de visualización en Python
+Aplicar técnicas de regresión polinomial utilizando Python
+Transforme los datos en un polinomio y luego use la regresión lineal para ajustar el parámetro
+Aplicar la evaluación de modelos mediante visualización en Python
+Aplicar técnicas de regresión polinomial a Python
+Predecir y tomar decisiones basadas en modelos de datos de Python
+Describir el uso de R-cuadrado y MSE para la evaluación dentro de la muestra
+Defina el término "relación curvilínea"
