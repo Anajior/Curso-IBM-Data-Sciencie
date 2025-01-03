@@ -1,0 +1,8 @@
+n esta tarea final, asumirá el rol de un analista de datos que trabaja en una organización de fideicomiso de inversión inmobiliaria que desea comenzar a invertir en bienes raíces residenciales. Se le proporcionará un conjunto de datos que contiene información detallada sobre los precios de las viviendas en la región en función de una serie de características de las propiedades, y su trabajo será analizar y predecir el precio de mercado de las viviendas en función de esa información.
+Objetivos de aprendizaje
+Escriba código Python para importar conjuntos de datos en un marco de datos
+Generar código Python apropiado para procesar datos
+Crear diagramas de caja y diagramas de dispersión usando Python
+Calcular R-cuadrado y MSE usando Python
+Evalúe diferentes modelos de datos dividiendo los datos en conjuntos de entrenamiento y prueba
+Realizar transformaciones polinómicas en conjuntos de datos
