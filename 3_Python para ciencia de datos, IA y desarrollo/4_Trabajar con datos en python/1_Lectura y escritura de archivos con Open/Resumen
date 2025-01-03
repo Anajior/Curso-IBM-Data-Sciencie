@@ -1,0 +1,7 @@
+Este módulo explica los conceptos básicos del trabajo con datos en Python y comienza el camino aprendiendo a leer y escribir archivos. Continúe con el módulo y descubra las mejores bibliotecas de Python que lo ayudarán en la manipulación de datos y las operaciones matemáticas.
+Objetivos de aprendizaje
+Explique cómo los Pandas utilizan marcos de datos.
+Utilice la biblioteca Pandas para el análisis de datos.
+Leer archivos de texto utilizando las bibliotecas de Python, incluidas "open" y "with".
+Utilice NumPy para crear matrices unidimensionales y bidimensionales.
+Escribir y guardar archivos en Python.
