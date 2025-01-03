@@ -1,0 +1,9 @@
+Este módulo profundiza en las formas únicas de recopilar datos mediante el uso de API y web scraping. Además, explora la recopilación de datos al explicar cómo leer y recopilar datos cuando se trabaja con diferentes formatos de archivo.
+Objetivos de aprendizaje
+Explique el uso del protocolo HTTP utilizando el método de biblioteca de solicitudes.
+Describe cómo funciona el protocolo HTTP de respuesta de solicitud de URL.
+Invocar API simples y de código abierto.
+Realice un raspado web básico utilizando Python.
+Trabaje con diferentes formatos de archivos usando Python.
+Explique la diferencia entre API y API REST.
+Resuma cómo las API reciben y envían información.
