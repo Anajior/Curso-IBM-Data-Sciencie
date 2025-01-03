@@ -1,0 +1,8 @@
+Las herramientas de visualización avanzadas son plataformas sofisticadas que ofrecen una amplia gama de funciones y capacidades avanzadas. Estas herramientas proporcionan un amplio conjunto de opciones que ayudan a crear visualizaciones visualmente atractivas e interactivas. En este módulo, aprenderá sobre los gráficos de gofres y la nube de palabras, incluida su aplicación. Explorará Seaborn, una nueva biblioteca de visualización en Python, y aprenderá a crear gráficos de regresión con ella. Además, aprenderá sobre folium, una biblioteca de visualización de datos que visualiza datos geoespaciales. Además, explorará el proceso de creación de mapas con Folium y la superposición de marcadores para hacerlos interesantes. Por último, aprenderá a crear un mapa de coropletas con Folium.
+Objetivos de aprendizaje
+Describe los mapas coropléticos con la ayuda de una ilustración.
+Explora el proceso de superposición de marcadores en mapas usando Foilum
+Describe Folium y explora el proceso de creación de mapas.
+Describa Seaborn y explore el proceso de generación de gráficos de regresión atractivos.
+Explora los gráficos de gofres y la nube de palabras junto con su aplicación
+Explora el proceso de creación de un mapa coroplético usando Folium
