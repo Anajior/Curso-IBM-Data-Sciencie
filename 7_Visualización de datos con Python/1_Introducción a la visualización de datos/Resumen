@@ -1,0 +1,8 @@
+La visualización de datos es una forma de presentar datos complejos en un formato gráfico y fácil de entender. Al analizar grandes volúmenes de datos y tomar decisiones basadas en ellos, la visualización de datos es fundamental. En este módulo, aprenderá sobre la visualización de datos y algunas prácticas recomendadas clave a seguir al crear gráficos y elementos visuales. Descubrirá la historia y la arquitectura de Matplotlib. Además, aprenderá sobre la creación de gráficos básicos con Matplotlib y explorará el conjunto de datos sobre inmigración canadiense, que utilizará durante el curso. Por último, analizará los datos en un marco de datos y generará gráficos de líneas utilizando Matplotlib.
+Objetivos de aprendizaje
+Utilice Matplotlib para crear gráficos de líneas
+Utilice Matplotlib para crear gráficos empleando Jupyter Notebook
+Explora el conjunto de datos sobre la inmigración a Canadá
+Discuta la visualización de datos y su importancia.
+Descubra la historia de Matplotlib y su arquitectura
+Identificar los pasos para analizar datos en el marco de datos de Pandas
