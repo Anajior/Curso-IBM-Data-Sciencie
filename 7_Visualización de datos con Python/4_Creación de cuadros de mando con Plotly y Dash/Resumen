@@ -1,0 +1,8 @@
+Los paneles de control y las aplicaciones de datos interactivas son herramientas cruciales para la visualización y el análisis de datos, ya que proporcionan una vista consolidada de los datos y las métricas clave en un formato visualmente atractivo y comprensible. En este módulo, explorará los beneficios de los paneles de control e identificará las diferentes herramientas de creación de paneles de control basadas en la web en Python. Aprenderá sobre Plotly y descubrirá cómo usar los objetos gráficos de Plotly y Plotly Express para crear gráficos. Obtendrá información sobre Dash, una biblioteca de interfaz de usuario de código abierto de Python, y sus dos componentes. Por último, comprenderá claramente la función de devolución de llamada y determinará cómo conectar los componentes principales y HTML mediante la devolución de llamada.
+Objetivos de aprendizaje
+Descubra Dash y sus dos componentes
+Identificar diferentes herramientas de panel de control basadas en la web disponibles en Python
+Utilice objetos gráficos de Plotly y Plotly Express para crear gráficos
+Explora Plotly y sus dos submódulos
+Determinar el proceso de conexión de componentes principales y HTML mediante devolución de llamada
+Describe la función de devolución de llamada
