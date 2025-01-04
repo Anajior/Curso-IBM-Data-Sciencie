@@ -1,0 +1,6 @@
+En este módulo, utilizará el aprendizaje automático para determinar si la primera etapa del Falcon 9 aterrizará con éxito. Dividirá sus datos en datos de entrenamiento y datos de prueba para encontrar el mejor hiperparámetro para SVM, árboles de clasificación y regresión logística. Luego, encontrará el método que funcione mejor utilizando los datos de prueba.
+Objetivos de aprendizaje
+Dividir los datos en datos de prueba de entrenamiento
+Entrenar diferentes modelos de clasificación
+Optimizar la búsqueda en la cuadrícula de hiperparámetros
+Utilice sus habilidades de aprendizaje automático para crear un modelo predictivo que ayude a que una empresa funcione de manera más eficiente.
