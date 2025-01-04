@@ -1,0 +1,7 @@
+En este módulo, crearás un panel para analizar los registros de lanzamiento de forma interactiva con Plotly Dash. Luego, crearás un mapa interactivo para analizar la proximidad del sitio de lanzamiento con Folium.
+Objetivos de aprendizaje
+Cree un tablero interactivo que contenga gráficos circulares y de dispersión para analizar datos con la biblioteca Python Plotly Dash.
+Calcule distancias en un mapa interactivo escribiendo código Python usando la biblioteca Folium.
+Genere mapas interactivos, trace coordenadas y marque grupos escribiendo código Python utilizando la biblioteca Folium.
+Cree un panel para analizar registros de lanzamiento de forma interactiva con Plotly Dash.
+Construye un mapa interactivo para analizar la proximidad del sitio de lanzamiento con Folium.
